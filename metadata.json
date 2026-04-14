@@ -1,0 +1,5 @@
+{
+  "name": "EcoScan AI - Smart Recycling Assistant",
+  "description": "An AI-powered Android app that identifies waste items and provides eco-friendly disposal instructions using Gen AI.",
+  "requestFramePermissions": ["camera"]
+}
